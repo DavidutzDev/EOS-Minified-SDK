@@ -1,0 +1,23 @@
+{
+  "name": "EOS-CUSTOM-SDK-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "graphql": "^16.8.2",
+    "socket.io-client": "^4.7.5",
+    "urql": "^4.1.0",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.2",
+    "@types/ws": "^8.5.10"
+  }
+}
