@@ -34,10 +34,6 @@ Make sure you have the following installed and set up:
 3. Configure your Epic Games application credentials.
 4. Use the provided examples to authenticate users.
 
-## Installation
+```
 
-You can clone the repository using Git:
-
-```bash
-git clone https://github.com/your-username/eos-minified-sdk-js.git
 ```
