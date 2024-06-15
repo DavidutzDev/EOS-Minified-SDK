@@ -13,6 +13,7 @@ This project serves as a demonstration of how to authenticate a user using their
 - Authenticate users using Epic Games account
 - Mimics official Epic SDK functionality
 - No telemetry or data collection
+- Get user details and friends list
 
 ### Limitations
 
